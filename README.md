@@ -1,15 +1,18 @@
-# Order By (Desktop - Connection)
+<p align="center">
+<img src="https://i.imgur.com/oSlvwO6.png"><br/>
+<img src="https://img.shields.io/badge/presented-2015.11.25-green.svg"> <img src="https://img.shields.io/badge/grade-MB-blue.svg"> <img src="https://img.shields.io/badge/part-desktop--connection-orange.svg">
+</p>
 
 Term paper for the Information Systems Technician course, finished and presented in November, 2015.
 
-The project consists in an administration software for a school, with the management done by a software, an website and an application.
+The project consists in an administration software for a school, with the management done by a [software](https://github.com/alessandrojean/order-by-desktop), an [website](https://github.com/alessandrojean/order-by-web) and an [application](https://github.com/alessandrojean/order-by-android).
 
-This repository contains:
+## Contents
 - The database connection for the [software](https://github.com/alessandrojean/order-by-desktop).
 
 ## Instructions
 
-Import the project in Eclipse, compile it, and add to build path in the [software](https://github.com/alessandrojean/order-by-desktop) project.
+Import the project in Eclipse, compile it into a `jar`, and add to build path in the [software](https://github.com/alessandrojean/order-by-desktop) project.
 
 To use it, you'll first need to already have the database imported in your MySQL. You may need change the constants in the project for your database login.
 
